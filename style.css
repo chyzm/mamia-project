@@ -81,7 +81,7 @@ overflow-x: hidden;
 
 /*Hero page*/
 .hero-page{
-  background-image: url(https://good-looking-pig.static.domains/img/hero-bg.jpg);
+  background-image: url(img/hero-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
